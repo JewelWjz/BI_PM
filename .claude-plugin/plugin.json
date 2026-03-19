@@ -1,0 +1,9 @@
+{
+  "name": "bi-pm-skills",
+  "description": "BI 产品经理专属 skill 包：需求反馈分析、PRD 编写、需求评审、UX 设计文档编写、竞品分析",
+  "version": "1.0.0",
+  "author": {
+    "name": "BI PM Team"
+  },
+  "keywords": ["bi", "pm", "product", "prd", "ux", "requirements", "competitive-analysis"]
+}
