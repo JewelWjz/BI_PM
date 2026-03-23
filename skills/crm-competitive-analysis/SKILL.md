@@ -96,6 +96,10 @@ Adopt the persona of a senior global product strategist AND CRM chief analyst wi
 【指定的国际竞品】：（例如：HubSpot Sales Hub, Zoho CRM等）
 【官方资料链接（选填）】：（如有特定想让我研读的白皮书/手册链接请提供）
 【竞品测试账号（极度推荐）】：（请提供登录URL、账号及密码/Token。如果有该账号，我将模拟实操登录，测试具体功能的交互流畅度及深层限制。如果不方便提供，我将主要依靠官方手册和海外开发者论坛资料进行推演。）
+【纷享 BI 白皮书路径（选填）】：（用于读取纷享 BI 能力基线。请提供本地 PDF 路径，例如：
+  - 精华版（49页，推荐）：/path/to/纷享销客BI智能分析平台产品白皮书（精华版）_202601.pdf
+  - 内部版（266页，深度分析用）：/path/to/纷享销客BI智能分析平台产品白皮书（内部版）_202601.pdf
+  如不提供，将仅依赖 references/ 目录中的 CSV 和官网手册链接进行基线分析。）
 【输出路径（选填）】：（留空则使用默认目录 01_Strategy_and_Planning/Market_Analysis/）
 ```
 
